@@ -3,7 +3,7 @@
 "map.dtd">
 <map>
   <title>Introduction to Google Gemini</title>
-<topicref href="index.dita"/>
+  <topicref href="index.dita"/>
   <topicref href="gemini_topic_introduction.dita">
     <topicref href="gemini_concept_generative-ai.dita"/>
 
